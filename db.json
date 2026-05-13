@@ -1,0 +1,26 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "nombre": "Laura Gómez",
+      "correo": "laura@gmail.com",
+      "password": "1234"
+    }
+  ],
+
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Mouse Gamer",
+      "precio": 85000,
+      "categoria": "Tecnología"
+    },
+
+    {
+      "id": 2,
+      "nombre": "Teclado Mecánico",
+      "precio": 180000,
+      "categoria": "Tecnología"
+    }
+  ]
+}
